@@ -16,7 +16,7 @@ En tant qu’utilisateur, je souhaite créer un compte en renseignant mon email,
   5. Cliquer sur "Créer un compte"
 - **Données utilisées :** email=test@example.com, password=Test1234
 - **Résultat attendu :** Compte créé, redirection vers le dashboard ou message "Compte créé".
-- **Résultat obtenu :** TBD
+- **Résultat obtenu :** À déterminer
 - **Status :** En attente
 
 ---
@@ -30,7 +30,7 @@ En tant qu’utilisateur, je souhaite créer un compte en renseignant mon email,
   3. Remplir les autres champs valides
   4. Cliquer sur "Créer un compte"
 - **Résultat attendu :** Message "Email invalide"
-- **Résultat obtenu :** TBD
+- **Résultat obtenu :** À déterminer
 - **Status :** En attente
 
 ---
@@ -44,7 +44,7 @@ En tant qu’utilisateur, je souhaite créer un compte en renseignant mon email,
   3. Confirmation : "Test1234"
   4. Cliquer sur "Créer un compte"
 - **Résultat attendu :** Message "Les mots de passe ne correspondent pas"
-- **Résultat obtenu :** TBD
+- **Résultat obtenu :** À déterminer
 - **Status :** En attente
 
 ---
@@ -56,5 +56,5 @@ En tant qu’utilisateur, je souhaite créer un compte en renseignant mon email,
   1. Ouvrir /register
   2. Cliquer sur "Créer un compte" sans remplir les champs
 - **Résultat attendu :** Messages d'erreur pour chaque champ requis (ex: "Email requis", "Mot de passe requis")
-- **Résultat obtenu :** TBD
+- **Résultat obtenu :** À déterminer
 - **Status :** En attente

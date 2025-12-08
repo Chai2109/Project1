@@ -2,7 +2,7 @@
 
 ## Informations générales
 - **Projet :** Application de création de compte
-- **Date :** [Indiquer la date]
+- **Date :** 25/11/2025
 - **Testeur :** Chaimae
 - **Environnement :** Navigateur Chrome / Version 120.x / Windows 10
 - **Version de l’application :** 1.0
@@ -19,11 +19,11 @@
   3. Remplir les autres champs correctement
   4. Cliquer sur "Créer un compte"
 - **Résultat attendu :** Message d’erreur "Email invalide"
-- **Résultat obtenu :** Aucun message d’erreur, le formulaire est soumis
+- **Résultat obtenu :** TBD
 - **Priorité :** Haute
+- **Sévérité :** Critique
 - **Statut :** Nouveau
-- **Capture d’écran / preuve :** screenshot1.png
-
+- **Capture d’écran / preuve :** ![BUG-001](screenshots/screenshot1.png)
 ---
 
 ## Bug 2 — Mots de passe différents
@@ -36,11 +36,11 @@
   3. Confirmation : "Test1234"
   4. Cliquer "Créer un compte"
 - **Résultat attendu :** Message d’erreur "Les mots de passe ne correspondent pas"
-- **Résultat obtenu :** Aucun message d’erreur
+- **Résultat obtenu :** TBD
 - **Priorité :** Haute
+- **Sévérité :** Critique
 - **Statut :** Nouveau
-- **Capture d’écran / preuve :** screenshot2.png
-
+- **Capture d’écran / preuve :** ![BUG-002](screenshots/screenshot2.png)
 ---
 
 ## Bug 3 — Champs obligatoires vides
@@ -51,7 +51,8 @@
   1. Ouvrir /register
   2. Cliquer "Créer un compte" sans remplir les champs
 - **Résultat attendu :** Messages d’erreur pour chaque champ requis (ex: "Email requis", "Mot de passe requis")
-- **Résultat obtenu :** Seuls certains messages apparaissent
+- **Résultat obtenu :** TBD
 - **Priorité :** Moyenne
+- **Sévérité :** Majeur
 - **Statut :** Nouveau
-- **Capture d’écran / preuve :** screenshot3.png
+- **Capture d’écran / preuve :** ![BUG-003](screenshots/screenshot3.png)
