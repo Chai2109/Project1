@@ -33,8 +33,7 @@ Ni message de confirmation, ni mise à jour visuelle, ni ajout en base.
 - Le produit doit apparaître dans la liste des favoris.
 
 ### Résultat obtenu
-TBD (à documenter après test)
-
+TBD 
 ### Impact
 - Fonction essentielle non opérationnelle.
 - Mauvaise expérience utilisateur.
